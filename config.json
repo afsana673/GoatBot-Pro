@@ -13,7 +13,7 @@
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
   "nickNameBot": "HR HABIB",
-  "prefix": "/",
+  "prefix": ".",
   "enableTypingIndicator": true,
   "typingDuration": 2000,
   "notesTypingIndicator": "true = show 'is typing...' before every reply (more human-like, adds visible delay) | false = reply instantly, no typing shown",
@@ -31,8 +31,8 @@
   },
   "adminBot": [
     "100093182723125",
-    " ",
-    " "
+    "100093182723125",
+    ""
   ],
   "reactUnsend": {
     "enable": true,
@@ -46,7 +46,7 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100093182723125",
+      "",
       ""
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
